@@ -25,7 +25,7 @@ SECRET_KEY = 'pd(+eu%$(gm&gg8b==rebjg0a^ty4a#&3s@*-h@7lfgjfnga-6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ec2-18-216-217-206.us-east-2.compute.amazonaws.com']
 
 # REST_FRAMEWORK = {
 #     'DEFAULT_AUTHENTICATION_CLASSES': (
